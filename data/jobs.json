@@ -1,0 +1,400 @@
+{
+  "updatedAt": "2026-10-14T09:00:00+08:00",
+  "jobs": [
+    {
+      "id": "jike-6acdcb93cfb5d08b3e97c67d",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "海外广告投放，兼职远程，100-200元/时",
+      "company": "",
+      "description": "负责 Meta / Google 广告账户的投放脚本维护与数据看板，需熟悉 Python 和 Marketing API，每周 10-15 小时，长期合作。",
+      "url": "https://m.okjike.com/originalPosts/6acdcb93cfb5d08b3e97c67d",
+      "category": "high_value",
+      "tags": [
+        "全栈",
+        "爬虫/数据采集"
+      ],
+      "jobType": "parttime",
+      "salaryText": "100-200元/时",
+      "publishedAt": "2026-10-13T14:20:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad0f1a2b3c4d5e6f7a8b9c0",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "【远程】招 LLM 应用工程师，做客服 Agent，月薪 25-35k",
+      "company": "",
+      "description": "初创团队，产品已上线有付费客户。负责基于 Claude / GPT 的多轮客服 Agent，包括工具调用、知识库检索与评测流水线。全职远程，弹性工作，可开发票或签劳务。",
+      "url": "https://m.okjike.com/originalPosts/6ad0f1a2b3c4d5e6f7a8b9c0",
+      "category": "high_value",
+      "tags": [
+        "AI/LLM",
+        "Agent",
+        "RAG"
+      ],
+      "jobType": "full_remote",
+      "salaryText": "25-35k/月",
+      "publishedAt": "2026-10-14T08:10:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "easynomad-3021",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "高级前端工程师（React / Next.js）· 全职远程",
+      "company": "某出海 SaaS 公司",
+      "description": "负责面向北美客户的 B 端 SaaS 前端，技术栈 React 18、Next.js、TypeScript、Tailwind。要求 3 年以上经验，英文读写流畅，与美国团队有 2 小时时区重叠。",
+      "url": "https://easynomad.cn/jobs/3021",
+      "category": "high_value",
+      "tags": [
+        "前端",
+        "全栈"
+      ],
+      "jobType": "full_remote",
+      "salaryText": "20-30k/月",
+      "publishedAt": "2026-10-13T20:45:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1aa01bb02cc03dd04ee05",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "求一个会写爬虫的朋友，抓某电商平台公开商品数据，预算 1500",
+      "company": "",
+      "description": "需要每天定时抓取约 2000 个商品的价格和库存，输出 CSV 即可，有反爬，最好会 Playwright。一周内交付。",
+      "url": "https://m.okjike.com/originalPosts/6ad1aa01bb02cc03dd04ee05",
+      "category": "quick_win",
+      "tags": [
+        "爬虫/数据采集",
+        "自动化"
+      ],
+      "jobType": "project",
+      "salaryText": "预算 1500 元",
+      "publishedAt": "2026-10-14T07:30:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1bb11cc22dd33ee44ff55",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "RAG 知识库项目外包，企业内部文档问答，预算 3-5 万",
+      "company": "",
+      "description": "约 2 万份 PDF / Word 文档，需要做切分、向量化、检索与问答界面，私有化部署，要求有 RAG 落地案例。周期约 6 周。",
+      "url": "https://m.okjike.com/originalPosts/6ad1bb11cc22dd33ee44ff55",
+      "category": "high_value",
+      "tags": [
+        "RAG",
+        "AI/LLM",
+        "后端"
+      ],
+      "jobType": "project",
+      "salaryText": "3-5万",
+      "publishedAt": "2026-10-12T16:00:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "easynomad-3018",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "Go 后端开发（远程 / 长期兼职）",
+      "company": "海外独立开发团队",
+      "description": "负责支付与订单服务的维护和新功能开发，Go + PostgreSQL + Redis，每周不少于 20 小时，按月结算。",
+      "url": "https://easynomad.cn/jobs/3018",
+      "category": "high_value",
+      "tags": [
+        "后端"
+      ],
+      "jobType": "parttime",
+      "salaryText": "15k/月起",
+      "publishedAt": "2026-10-11T11:15:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1cc22dd33ee44ff550011",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "小程序改 bug，几个页面样式错乱，300 元",
+      "company": "",
+      "description": "uni-app 写的小程序，iOS 上几个页面布局错乱，今天能看的私信。",
+      "url": "https://m.okjike.com/originalPosts/6ad1cc22dd33ee44ff550011",
+      "category": "quick_win",
+      "tags": [
+        "前端",
+        "移动端"
+      ],
+      "jobType": "project",
+      "salaryText": "300元",
+      "publishedAt": "2026-10-14T06:05:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1dd33ee44ff5500112233",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "找人用 n8n / 影刀搭一套自动化流程：表单 → 飞书多维表格 → 企业微信通知",
+      "company": "",
+      "description": "流程不复杂，需要能讲清楚怎么维护。预算 2000 左右。",
+      "url": "https://m.okjike.com/originalPosts/6ad1dd33ee44ff5500112233",
+      "category": "quick_win",
+      "tags": [
+        "自动化"
+      ],
+      "jobType": "project",
+      "salaryText": "2000元",
+      "publishedAt": "2026-10-13T09:40:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "easynomad-3015",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "DevOps 工程师（Kubernetes / AWS）· 全职远程",
+      "company": "某 Web3 基础设施团队",
+      "description": "负责多区域 K8s 集群、CI/CD 与可观测性建设。熟悉 Terraform、ArgoCD、Prometheus。USD 结算。",
+      "url": "https://easynomad.cn/jobs/3015",
+      "category": "high_value",
+      "tags": [
+        "DevOps/云"
+      ],
+      "jobType": "full_remote",
+      "salaryText": "$4000-6000/月",
+      "publishedAt": "2026-10-10T22:30:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1ee44ff55001122334455",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "数据分析兼职：帮跨境店铺做周报看板，每月 2000",
+      "company": "",
+      "description": "每周把店铺后台导出的数据整理成看板（Metabase 或 Looker Studio 均可），每周大约 3 小时。",
+      "url": "https://m.okjike.com/originalPosts/6ad1ee44ff55001122334455",
+      "category": "quick_win",
+      "tags": [
+        "数据/分析"
+      ],
+      "jobType": "parttime",
+      "salaryText": "2000元/月",
+      "publishedAt": "2026-10-12T21:10:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1ff5500112233445566aa",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "Flutter 开发，做一个记账 App 的 MVP，预算 6000-8000",
+      "company": "",
+      "description": "需求文档和设计稿已备好，约 15 个页面，需要接入本地数据库和 iCloud 同步。",
+      "url": "https://m.okjike.com/originalPosts/6ad1ff5500112233445566aa",
+      "category": "normal",
+      "tags": [
+        "移动端"
+      ],
+      "jobType": "project",
+      "salaryText": "6000-8000元",
+      "publishedAt": "2026-10-11T13:00:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "easynomad-3012",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "安全工程师（远程）：Web 渗透测试 + 安全加固",
+      "company": "某跨境电商平台",
+      "description": "负责定期渗透测试、漏洞修复跟进和安全基线建设，需有 SRC 或项目经验。可兼职。",
+      "url": "https://easynomad.cn/jobs/3012",
+      "category": "normal",
+      "tags": [
+        "安全",
+        "后端"
+      ],
+      "jobType": "parttime",
+      "salaryText": "面议",
+      "publishedAt": "2026-10-09T15:20:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad200112233445566778899",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "AI Agent 开发：给小红书运营做选题助手，按周结算 800",
+      "company": "",
+      "description": "基于现有 API 做一个能抓热门笔记、生成选题和标题的小工具，Python 即可，界面用 Streamlit。",
+      "url": "https://m.okjike.com/originalPosts/6ad200112233445566778899",
+      "category": "quick_win",
+      "tags": [
+        "Agent",
+        "AI/LLM",
+        "爬虫/数据采集"
+      ],
+      "jobType": "parttime",
+      "salaryText": "800元/周",
+      "publishedAt": "2026-10-13T23:50:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad2112233445566778899aa",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "招全栈工程师长期合作｜我们是一家做 AI 视频剪辑工具的出海团队，产品已有稳定海外付费用户，现在需要一位能独立负责从前端到后端再到部署的全栈同学，Next.js + Node + PostgreSQL + AWS，远程办公，时间灵活，看重能力和长期稳定合作，薪资可谈，欢迎带作品私信",
+      "company": "",
+      "description": "",
+      "url": "https://m.okjike.com/originalPosts/6ad2112233445566778899aa",
+      "category": "high_value",
+      "tags": [
+        "全栈",
+        "前端",
+        "后端",
+        "DevOps/云"
+      ],
+      "jobType": "full_remote",
+      "salaryText": "30-45k/月",
+      "publishedAt": "2026-10-09T10:00:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "easynomad-3009",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "Python 数据工程师 · 远程兼职",
+      "company": "某量化研究团队",
+      "description": "维护行情数据管道（Airflow + ClickHouse），保证每日数据完整性，偶尔做特征计算。",
+      "url": "https://easynomad.cn/jobs/3009",
+      "category": "normal",
+      "tags": [
+        "数据/分析",
+        "后端",
+        "自动化"
+      ],
+      "jobType": "parttime",
+      "salaryText": "200元/时",
+      "publishedAt": "2026-10-08T19:30:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad2223344556677889900bb",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "Chrome 插件开发，网页内容一键保存到 Notion，预算 2500",
+      "company": "",
+      "description": "Manifest V3，需要支持选区保存和标签，代码要交付源码。",
+      "url": "https://m.okjike.com/originalPosts/6ad2223344556677889900bb",
+      "category": "quick_win",
+      "tags": [
+        "前端",
+        "自动化"
+      ],
+      "jobType": "project",
+      "salaryText": "2500元",
+      "publishedAt": "2026-10-07T12:00:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad2334455667788990011cc",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "LLM 微调与评测顾问，按天计费",
+      "company": "",
+      "description": "帮团队梳理数据集构建、LoRA 微调和评测方案，远程会议为主，每月约 4-6 天。",
+      "url": "https://m.okjike.com/originalPosts/6ad2334455667788990011cc",
+      "category": "high_value",
+      "tags": [
+        "AI/LLM"
+      ],
+      "jobType": "parttime",
+      "salaryText": "3000元/天",
+      "publishedAt": "2026-10-06T10:30:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "easynomad-3005",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "React Native 工程师（全职远程，可签海外合同）",
+      "company": "某健身 App 团队",
+      "description": "负责 iOS / Android 双端功能迭代与性能优化，需有已上架作品。",
+      "url": "https://easynomad.cn/jobs/3005",
+      "category": "high_value",
+      "tags": [
+        "移动端",
+        "前端"
+      ],
+      "jobType": "full_remote",
+      "salaryText": "18-25k/月",
+      "publishedAt": "2026-10-05T09:00:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad2445566778899001122dd",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "官网改版，静态站即可，有设计稿，预算 4000",
+      "company": "",
+      "description": "5 个页面，响应式，要求部署到 Vercel。",
+      "url": "https://m.okjike.com/originalPosts/6ad2445566778899001122dd",
+      "category": "normal",
+      "tags": [
+        "前端"
+      ],
+      "jobType": "project",
+      "salaryText": "4000元",
+      "publishedAt": "2026-10-10T08:20:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad2556677889900112233ee",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "内部工具：把飞书审批数据同步到自建数据库，预算面议",
+      "company": "",
+      "description": "",
+      "url": "https://m.okjike.com/originalPosts/6ad2556677889900112233ee",
+      "category": "normal",
+      "tags": [
+        "自动化",
+        "后端",
+        "其他"
+      ],
+      "jobType": "project",
+      "salaryText": "面议",
+      "publishedAt": "2026-10-08T17:45:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "easynomad-2980",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "Node.js 后端工程师（远程）",
+      "company": "某在线教育公司",
+      "description": "负责课程与直播相关服务。",
+      "url": "https://easynomad.cn/jobs/2980",
+      "category": "high_value",
+      "tags": [
+        "后端"
+      ],
+      "jobType": "full_remote",
+      "salaryText": "15-20k/月",
+      "publishedAt": "2026-09-02T10:00:00+08:00",
+      "status": "expired"
+    },
+    {
+      "id": "jike-6ac9aa00bb11cc22dd33ee44",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "爬虫小单：抓取某论坛公开帖子做舆情分析，800",
+      "company": "",
+      "description": "已有人接，勿扰。",
+      "url": "https://m.okjike.com/originalPosts/6ac9aa00bb11cc22dd33ee44",
+      "category": "quick_win",
+      "tags": [
+        "爬虫/数据采集",
+        "数据/分析"
+      ],
+      "jobType": "project",
+      "salaryText": "800元",
+      "publishedAt": "2026-08-28T15:00:00+08:00",
+      "status": "expired"
+    }
+  ]
+}
