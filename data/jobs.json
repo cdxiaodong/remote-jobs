@@ -1,22 +1,39 @@
 {
-  "updatedAt": "2026-10-14T09:00:00+08:00",
+  "updatedAt": "2026-10-15T20:04:17+08:00",
   "jobs": [
     {
-      "id": "jike-6acdcb93cfb5d08b3e97c67d",
+      "id": "xhs-6ad073f9000000000a0251b8",
       "source": "jike",
       "sourceName": "即刻·招聘发布市场",
-      "title": "海外广告投放，兼职远程，100-200元/时",
-      "company": "",
-      "description": "负责 Meta / Google 广告账户的投放脚本维护与数据看板，需熟悉 Python 和 Marketing API，每周 10-15 小时，长期合作。",
-      "url": "https://m.okjike.com/originalPosts/6acdcb93cfb5d08b3e97c67d",
+      "title": "Lumo Robotics（数百万美元天使轮）招社媒运营实习生",
+      "company": "Lumo Robotics",
+      "description": "Lumo Robotics，数百万美元天使轮融资，打造下一代 AI 消费终端硬件 Startup。寻社媒运营实习生，运营小红书/公众号/Instagram，参与品牌内容策划、创意拍摄、视频剪辑和海外传播。上海徐汇滨江，95后00后年轻团队，从零参与全球化消费科技品牌建设。",
+      "url": "https://www.xiaohongshu.com/explore/6ad073f9000000000a0251b8",
+      "category": "quick_win",
+      "tags": [
+        "其他"
+      ],
+      "jobType": "unknown",
+      "salaryText": "",
+      "publishedAt": "2026-10-15T14:34:33+08:00",
+      "status": "active"
+    },
+    {
+      "id": "xhs-6acf7249000000001400116d",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "安远AI 年度招聘：技术与治理交叉口，7 个岗位（截止11月8日）",
+      "company": "安远AI",
+      "description": "安远AI 年度招聘正式开始，关注 AI 前沿进展与 AI 安全问题、站在技术与治理交叉口的岗位机会，共 7 个岗位（研究/传播/运营），岗位详情见图片。申请截止 11 月 8 日。10 月 24 日北京呼家楼线下答疑会。申请方式见公众号安远AI或官网。",
+      "url": "https://www.xiaohongshu.com/explore/6acf7249000000001400116d",
       "category": "high_value",
       "tags": [
-        "全栈",
-        "爬虫/数据采集"
+        "安全",
+        "其他"
       ],
-      "jobType": "parttime",
-      "salaryText": "100-200元/时",
-      "publishedAt": "2026-10-13T14:20:00+08:00",
+      "jobType": "unknown",
+      "salaryText": "",
+      "publishedAt": "2026-10-14T20:15:05+08:00",
       "status": "active"
     },
     {
@@ -39,6 +56,61 @@
       "status": "active"
     },
     {
+      "id": "jike-6ad1aa01bb02cc03dd04ee05",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "求一个会写爬虫的朋友，抓某电商平台公开商品数据，预算 1500",
+      "company": "",
+      "description": "需要每天定时抓取约 2000 个商品的价格和库存，输出 CSV 即可，有反爬，最好会 Playwright。一周内交付。",
+      "url": "https://m.okjike.com/originalPosts/6ad1aa01bb02cc03dd04ee05",
+      "category": "quick_win",
+      "tags": [
+        "爬虫/数据采集",
+        "自动化"
+      ],
+      "jobType": "project",
+      "salaryText": "预算 1500 元",
+      "publishedAt": "2026-10-14T07:30:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1cc22dd33ee44ff550011",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "小程序改 bug，几个页面样式错乱，300 元",
+      "company": "",
+      "description": "uni-app 写的小程序，iOS 上几个页面布局错乱，今天能看的私信。",
+      "url": "https://m.okjike.com/originalPosts/6ad1cc22dd33ee44ff550011",
+      "category": "quick_win",
+      "tags": [
+        "前端",
+        "移动端"
+      ],
+      "jobType": "project",
+      "salaryText": "300元",
+      "publishedAt": "2026-10-14T06:05:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad200112233445566778899",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "AI Agent 开发：给小红书运营做选题助手，按周结算 800",
+      "company": "",
+      "description": "基于现有 API 做一个能抓热门笔记、生成选题和标题的小工具，Python 即可，界面用 Streamlit。",
+      "url": "https://m.okjike.com/originalPosts/6ad200112233445566778899",
+      "category": "quick_win",
+      "tags": [
+        "Agent",
+        "AI/LLM",
+        "爬虫/数据采集"
+      ],
+      "jobType": "parttime",
+      "salaryText": "800元/周",
+      "publishedAt": "2026-10-13T23:50:00+08:00",
+      "status": "active"
+    },
+    {
       "id": "easynomad-3021",
       "source": "easynomad",
       "sourceName": "轻松游牧",
@@ -57,21 +129,55 @@
       "status": "active"
     },
     {
-      "id": "jike-6ad1aa01bb02cc03dd04ee05",
+      "id": "jike-6acdcb93cfb5d08b3e97c67d",
       "source": "jike",
       "sourceName": "即刻·招聘发布市场",
-      "title": "求一个会写爬虫的朋友，抓某电商平台公开商品数据，预算 1500",
+      "title": "海外广告投放，兼职远程，100-200元/时",
       "company": "",
-      "description": "需要每天定时抓取约 2000 个商品的价格和库存，输出 CSV 即可，有反爬，最好会 Playwright。一周内交付。",
-      "url": "https://m.okjike.com/originalPosts/6ad1aa01bb02cc03dd04ee05",
+      "description": "负责 Meta / Google 广告账户的投放脚本维护与数据看板，需熟悉 Python 和 Marketing API，每周 10-15 小时，长期合作。",
+      "url": "https://m.okjike.com/originalPosts/6acdcb93cfb5d08b3e97c67d",
+      "category": "high_value",
+      "tags": [
+        "全栈",
+        "爬虫/数据采集"
+      ],
+      "jobType": "parttime",
+      "salaryText": "100-200元/时",
+      "publishedAt": "2026-10-13T14:20:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1dd33ee44ff5500112233",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "找人用 n8n / 影刀搭一套自动化流程：表单 → 飞书多维表格 → 企业微信通知",
+      "company": "",
+      "description": "流程不复杂，需要能讲清楚怎么维护。预算 2000 左右。",
+      "url": "https://m.okjike.com/originalPosts/6ad1dd33ee44ff5500112233",
       "category": "quick_win",
       "tags": [
-        "爬虫/数据采集",
         "自动化"
       ],
       "jobType": "project",
-      "salaryText": "预算 1500 元",
-      "publishedAt": "2026-10-14T07:30:00+08:00",
+      "salaryText": "2000元",
+      "publishedAt": "2026-10-13T09:40:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad1ee44ff55001122334455",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "数据分析兼职：帮跨境店铺做周报看板，每月 2000",
+      "company": "",
+      "description": "每周把店铺后台导出的数据整理成看板（Metabase 或 Looker Studio 均可），每周大约 3 小时。",
+      "url": "https://m.okjike.com/originalPosts/6ad1ee44ff55001122334455",
+      "category": "quick_win",
+      "tags": [
+        "数据/分析"
+      ],
+      "jobType": "parttime",
+      "salaryText": "2000元/月",
+      "publishedAt": "2026-10-12T21:10:00+08:00",
       "status": "active"
     },
     {
@@ -94,89 +200,21 @@
       "status": "active"
     },
     {
-      "id": "easynomad-3018",
-      "source": "easynomad",
-      "sourceName": "轻松游牧",
-      "title": "Go 后端开发（远程 / 长期兼职）",
-      "company": "海外独立开发团队",
-      "description": "负责支付与订单服务的维护和新功能开发，Go + PostgreSQL + Redis，每周不少于 20 小时，按月结算。",
-      "url": "https://easynomad.cn/jobs/3018",
+      "id": "xhs-6acc5c910000000015010e3a",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "Vera Praxis 安全实验室招 Research Intern（CyberGym 全球前五团队）",
+      "company": "Vera Praxis",
+      "description": "全球前五的 Vera Praxis 安全实验室招 Research Intern。创始成员曾任职于 OAI、Google、腾讯、美团，安全四大论文 17 篇。Feyospace-s1 跻身 CyberGym 官方榜单全球前五。研究重点：挖掘未知漏洞、设计下一代安全模型与可训练可验证的研究环境。千卡级算力、100B-700B 模型后训练机会。优先在读博士，CTF 获奖或顶级安全实验室经历。深圳线下，每周 5 天，实习至少 3 个月。",
+      "url": "https://www.xiaohongshu.com/explore/6acc5c910000000015010e3a",
       "category": "high_value",
       "tags": [
-        "后端"
+        "安全",
+        "AI/LLM"
       ],
-      "jobType": "parttime",
-      "salaryText": "15k/月起",
-      "publishedAt": "2026-10-11T11:15:00+08:00",
-      "status": "active"
-    },
-    {
-      "id": "jike-6ad1cc22dd33ee44ff550011",
-      "source": "jike",
-      "sourceName": "即刻·招聘发布市场",
-      "title": "小程序改 bug，几个页面样式错乱，300 元",
-      "company": "",
-      "description": "uni-app 写的小程序，iOS 上几个页面布局错乱，今天能看的私信。",
-      "url": "https://m.okjike.com/originalPosts/6ad1cc22dd33ee44ff550011",
-      "category": "quick_win",
-      "tags": [
-        "前端",
-        "移动端"
-      ],
-      "jobType": "project",
-      "salaryText": "300元",
-      "publishedAt": "2026-10-14T06:05:00+08:00",
-      "status": "active"
-    },
-    {
-      "id": "jike-6ad1dd33ee44ff5500112233",
-      "source": "jike",
-      "sourceName": "即刻·招聘发布市场",
-      "title": "找人用 n8n / 影刀搭一套自动化流程：表单 → 飞书多维表格 → 企业微信通知",
-      "company": "",
-      "description": "流程不复杂，需要能讲清楚怎么维护。预算 2000 左右。",
-      "url": "https://m.okjike.com/originalPosts/6ad1dd33ee44ff5500112233",
-      "category": "quick_win",
-      "tags": [
-        "自动化"
-      ],
-      "jobType": "project",
-      "salaryText": "2000元",
-      "publishedAt": "2026-10-13T09:40:00+08:00",
-      "status": "active"
-    },
-    {
-      "id": "easynomad-3015",
-      "source": "easynomad",
-      "sourceName": "轻松游牧",
-      "title": "DevOps 工程师（Kubernetes / AWS）· 全职远程",
-      "company": "某 Web3 基础设施团队",
-      "description": "负责多区域 K8s 集群、CI/CD 与可观测性建设。熟悉 Terraform、ArgoCD、Prometheus。USD 结算。",
-      "url": "https://easynomad.cn/jobs/3015",
-      "category": "high_value",
-      "tags": [
-        "DevOps/云"
-      ],
-      "jobType": "full_remote",
-      "salaryText": "$4000-6000/月",
-      "publishedAt": "2026-10-10T22:30:00+08:00",
-      "status": "active"
-    },
-    {
-      "id": "jike-6ad1ee44ff55001122334455",
-      "source": "jike",
-      "sourceName": "即刻·招聘发布市场",
-      "title": "数据分析兼职：帮跨境店铺做周报看板，每月 2000",
-      "company": "",
-      "description": "每周把店铺后台导出的数据整理成看板（Metabase 或 Looker Studio 均可），每周大约 3 小时。",
-      "url": "https://m.okjike.com/originalPosts/6ad1ee44ff55001122334455",
-      "category": "quick_win",
-      "tags": [
-        "数据/分析"
-      ],
-      "jobType": "parttime",
-      "salaryText": "2000元/月",
-      "publishedAt": "2026-10-12T21:10:00+08:00",
+      "jobType": "unknown",
+      "salaryText": "",
+      "publishedAt": "2026-10-12T12:05:38+08:00",
       "status": "active"
     },
     {
@@ -197,6 +235,57 @@
       "status": "active"
     },
     {
+      "id": "easynomad-3018",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "Go 后端开发（远程 / 长期兼职）",
+      "company": "海外独立开发团队",
+      "description": "负责支付与订单服务的维护和新功能开发，Go + PostgreSQL + Redis，每周不少于 20 小时，按月结算。",
+      "url": "https://easynomad.cn/jobs/3018",
+      "category": "high_value",
+      "tags": [
+        "后端"
+      ],
+      "jobType": "parttime",
+      "salaryText": "15k/月起",
+      "publishedAt": "2026-10-11T11:15:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "easynomad-3015",
+      "source": "easynomad",
+      "sourceName": "轻松游牧",
+      "title": "DevOps 工程师（Kubernetes / AWS）· 全职远程",
+      "company": "某 Web3 基础设施团队",
+      "description": "负责多区域 K8s 集群、CI/CD 与可观测性建设。熟悉 Terraform、ArgoCD、Prometheus。USD 结算。",
+      "url": "https://easynomad.cn/jobs/3015",
+      "category": "high_value",
+      "tags": [
+        "DevOps/云"
+      ],
+      "jobType": "full_remote",
+      "salaryText": "$4000-6000/月",
+      "publishedAt": "2026-10-10T22:30:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad2445566778899001122dd",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "官网改版，静态站即可，有设计稿，预算 4000",
+      "company": "",
+      "description": "5 个页面，响应式，要求部署到 Vercel。",
+      "url": "https://m.okjike.com/originalPosts/6ad2445566778899001122dd",
+      "category": "normal",
+      "tags": [
+        "前端"
+      ],
+      "jobType": "project",
+      "salaryText": "4000元",
+      "publishedAt": "2026-10-10T08:20:00+08:00",
+      "status": "active"
+    },
+    {
       "id": "easynomad-3012",
       "source": "easynomad",
       "sourceName": "轻松游牧",
@@ -212,25 +301,6 @@
       "jobType": "parttime",
       "salaryText": "面议",
       "publishedAt": "2026-10-09T15:20:00+08:00",
-      "status": "active"
-    },
-    {
-      "id": "jike-6ad200112233445566778899",
-      "source": "jike",
-      "sourceName": "即刻·招聘发布市场",
-      "title": "AI Agent 开发：给小红书运营做选题助手，按周结算 800",
-      "company": "",
-      "description": "基于现有 API 做一个能抓热门笔记、生成选题和标题的小工具，Python 即可，界面用 Streamlit。",
-      "url": "https://m.okjike.com/originalPosts/6ad200112233445566778899",
-      "category": "quick_win",
-      "tags": [
-        "Agent",
-        "AI/LLM",
-        "爬虫/数据采集"
-      ],
-      "jobType": "parttime",
-      "salaryText": "800元/周",
-      "publishedAt": "2026-10-13T23:50:00+08:00",
       "status": "active"
     },
     {
@@ -270,6 +340,25 @@
       "jobType": "parttime",
       "salaryText": "200元/时",
       "publishedAt": "2026-10-08T19:30:00+08:00",
+      "status": "active"
+    },
+    {
+      "id": "jike-6ad2556677889900112233ee",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "内部工具：把飞书审批数据同步到自建数据库，预算面议",
+      "company": "",
+      "description": "",
+      "url": "https://m.okjike.com/originalPosts/6ad2556677889900112233ee",
+      "category": "normal",
+      "tags": [
+        "自动化",
+        "后端",
+        "其他"
+      ],
+      "jobType": "project",
+      "salaryText": "面议",
+      "publishedAt": "2026-10-08T17:45:00+08:00",
       "status": "active"
     },
     {
@@ -323,42 +412,6 @@
       "jobType": "full_remote",
       "salaryText": "18-25k/月",
       "publishedAt": "2026-10-05T09:00:00+08:00",
-      "status": "active"
-    },
-    {
-      "id": "jike-6ad2445566778899001122dd",
-      "source": "jike",
-      "sourceName": "即刻·招聘发布市场",
-      "title": "官网改版，静态站即可，有设计稿，预算 4000",
-      "company": "",
-      "description": "5 个页面，响应式，要求部署到 Vercel。",
-      "url": "https://m.okjike.com/originalPosts/6ad2445566778899001122dd",
-      "category": "normal",
-      "tags": [
-        "前端"
-      ],
-      "jobType": "project",
-      "salaryText": "4000元",
-      "publishedAt": "2026-10-10T08:20:00+08:00",
-      "status": "active"
-    },
-    {
-      "id": "jike-6ad2556677889900112233ee",
-      "source": "jike",
-      "sourceName": "即刻·招聘发布市场",
-      "title": "内部工具：把飞书审批数据同步到自建数据库，预算面议",
-      "company": "",
-      "description": "",
-      "url": "https://m.okjike.com/originalPosts/6ad2556677889900112233ee",
-      "category": "normal",
-      "tags": [
-        "自动化",
-        "后端",
-        "其他"
-      ],
-      "jobType": "project",
-      "salaryText": "面议",
-      "publishedAt": "2026-10-08T17:45:00+08:00",
       "status": "active"
     },
     {
