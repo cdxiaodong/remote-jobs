@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-10-15T20:04:17+08:00",
+  "updatedAt": "2026-10-16T10:08:53+08:00",
   "jobs": [
+    {
+      "id": "wwr-1ea5ae79e5",
+      "source": "easynomad",
+      "sourceName": "Askable via 轻松游牧",
+      "title": "Software Engineer, AI Coding Tasks (Contract) — US$1,000/任务",
+      "company": "",
+      "description": "基于自己熟悉的代码库构建 AI 编码任务，每任务 1000 美元，可承接多任务，远程合同制。",
+      "url": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
+      "category": "high_value",
+      "tags": [
+        "AI/LLM",
+        "Agent",
+        "其他"
+      ],
+      "jobType": "project",
+      "salaryText": "US$1,000 per task",
+      "publishedAt": "2026-10-16T01:22:45+00:00",
+      "status": "active"
+    },
     {
       "id": "xhs-6ad073f9000000000a0251b8",
       "source": "jike",
