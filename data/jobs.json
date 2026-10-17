@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-16T10:08:53+08:00",
+  "updatedAt": "2026-10-17T14:34:49+08:00",
   "jobs": [
+    {
+      "id": "xhs-6ad1d28f000000001c00c2fb",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "北京海淀AI研发企业招IT基础设施与信息安全工程师（兼职可转全）",
+      "company": "",
+      "description": "北京海淀 AI 研发型企业招 IT 基础设施与信息安全工程师：办公网络/终端/服务器/GPU 算力资源运维、账号权限管理、系统加固、漏洞排查、数据备份、信息安全制度落地。要求本科毕业 1-3 年、2 年以上 IT 运维或信息安全经验，加分项为 AI 企业/GPU 服务器/计算集群运维。前期兼职每天坐班 4 小时，薪资面议，表现优秀可转全职。",
+      "url": "https://www.xiaohongshu.com/explore/6ad1d28f000000001c00c2fb",
+      "category": "quick_win",
+      "tags": [
+        "安全",
+        "DevOps/云"
+      ],
+      "jobType": "unknown",
+      "salaryText": "",
+      "publishedAt": "2026-10-16T15:30:23+08:00",
+      "status": "active"
+    },
     {
       "id": "wwr-1ea5ae79e5",
       "source": "easynomad",
@@ -38,6 +56,24 @@
       "status": "active"
     },
     {
+      "id": "xhs-6ad05183000000001301a5a8",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "字节Seed模型安全对齐独立部门全球招大牛（课题详情版）",
+      "company": "字节跳动Seed",
+      "description": "字节 Seed 模型安全与对齐独立部门全球招募 10 位顶尖研究员，研究课题：大模型及 Agent 安全的前沿评测方法和 Benchmark 建设、模型前沿能力对齐训练方法、自动化 Red Teaming、模型行为可解释性、模型能力和行为监控。字节待遇顶级，面向 AGI 安全前沿课题。",
+      "url": "https://www.xiaohongshu.com/explore/6ad05183000000001301a5a8",
+      "category": "high_value",
+      "tags": [
+        "安全",
+        "AI/LLM"
+      ],
+      "jobType": "unknown",
+      "salaryText": "",
+      "publishedAt": "2026-10-15T12:07:31+08:00",
+      "status": "active"
+    },
+    {
       "id": "xhs-6acf7249000000001400116d",
       "source": "jike",
       "sourceName": "即刻·招聘发布市场",
@@ -53,6 +89,24 @@
       "jobType": "unknown",
       "salaryText": "",
       "publishedAt": "2026-10-14T20:15:05+08:00",
+      "status": "active"
+    },
+    {
+      "id": "xhs-6acf69cb000000001a030a2f",
+      "source": "jike",
+      "sourceName": "即刻·招聘发布市场",
+      "title": "字节Seed Alignment&Preparedness部门全球招募10位顶尖研究员",
+      "company": "字节跳动Seed",
+      "description": "Seed 成立 Alignment & Preparedness 部门，全球招募 10 位顶尖研究员。期待背景：大模型安全、对齐、评测、红队、强化学习、Agent 或系统安全方向研究经历。研究课题含大模型及 Agent 安全评测 Benchmark 建设、自动化 Red Teaming、模型行为可解释性、能力与行为监控。工作地点：北京、上海、圣何塞。研发资源充分，推动模型能力与安全能力共同演进。",
+      "url": "https://www.xiaohongshu.com/explore/6acf69cb000000001a030a2f",
+      "category": "high_value",
+      "tags": [
+        "安全",
+        "AI/LLM"
+      ],
+      "jobType": "unknown",
+      "salaryText": "",
+      "publishedAt": "2026-10-14T19:38:51+08:00",
       "status": "active"
     },
     {
